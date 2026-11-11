@@ -1,0 +1,10 @@
+{
+  "name": "academic-slides",
+  "version": "0.1.0",
+  "description": "Research talks as .pptx decks from a ready-made Academic theme.",
+  "author": {
+    "name": "bigohofone"
+  },
+  "repository": "https://github.com/bigohofone/academic-slides-skill",
+  "license": "MIT"
+}

@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+
+# Third-party talks rebuilt in the theme for testing; their content belongs to the original authors.
+restyled/

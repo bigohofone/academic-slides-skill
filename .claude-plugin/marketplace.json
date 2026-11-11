@@ -1,0 +1,13 @@
+{
+  "name": "academic-slides-skill",
+  "owner": {
+    "name": "bigohofone"
+  },
+  "plugins": [
+    {
+      "name": "academic-slides",
+      "source": "./",
+      "description": "Research talks as .pptx decks from a ready-made Academic theme."
+    }
+  ]
+}
